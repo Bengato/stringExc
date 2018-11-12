@@ -1,0 +1,7 @@
+F:\לימודים\שנה ב'\C#\stringExc\stringExc\stringExc\bin\Debug\stringExc.exe.config
+F:\לימודים\שנה ב'\C#\stringExc\stringExc\stringExc\bin\Debug\stringExc.exe
+F:\לימודים\שנה ב'\C#\stringExc\stringExc\stringExc\bin\Debug\stringExc.pdb
+F:\לימודים\שנה ב'\C#\stringExc\stringExc\stringExc\obj\Debug\stringExc.csprojAssemblyReference.cache
+F:\לימודים\שנה ב'\C#\stringExc\stringExc\stringExc\obj\Debug\stringExc.csproj.CoreCompileInputs.cache
+F:\לימודים\שנה ב'\C#\stringExc\stringExc\stringExc\obj\Debug\stringExc.exe
+F:\לימודים\שנה ב'\C#\stringExc\stringExc\stringExc\obj\Debug\stringExc.pdb
